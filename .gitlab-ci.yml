@@ -1,11 +1,11 @@
-
 before_script:
   - docker info
 
 
 # This file is a template, and might need editing before it works on your project.
 # Full project: https://gitlab.com/pages/plain-html
-pages:
+#pages:
+test:
   script:
   - echo "hi!"
   - mkdir .public
